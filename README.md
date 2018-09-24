@@ -1,7 +1,7 @@
 # Advertisement-Classification
 
 ## Training Model
-This deep learning model is based on the tensorflow framework. It can process with the input data and output the predict result which tells whether this advertisement fits the audience well with such kinds of facial features. And in this case I simply used ANN model for training, because the input is only a series of data but not with a complex structure. Maybe it can be improved with mode input data and mode complex layers structure.
+This deep learning model is based on the tensorflow framework. It can process with the input data and output the predict result which tells whether this advertisement fits the audience well with such kinds of facial features. And in this case I simply used ANN model for training, because the input is only a series of data but not with a complex structure. Maybe it can be improved with more input data and more complex layers structure.
 During the training process, it will save the model in the end, as well as the visual losses provided by tensorflow itself.
 
 ## Forward Predict
